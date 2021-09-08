@@ -162,10 +162,6 @@ print()
 print('R² train: ', regression.score(x_train, y_train))
 print('R² test:  ', regression.score(x_test, y_test))
 
-print()
-print('Mean:   ', data['PTRATIO'].mean())
-print('Median: ', data['PTRATIO'].median())
-print('STD:    ', data['PTRATIO'].std())
 
 # Predict multi linear regression with normalizing distribution
 x = np.log(data.iloc[:, [5,10, 12]].values)
@@ -186,7 +182,41 @@ print()
 print('R² train: ', regression.score(x_train, y_train))
 print('R² test:  ', regression.score(x_test, y_test))
 
+
+# All features of continuous value
+x = data.drop(['PRICE', 'CHAS', 'ZN'], axis=1)
+y = data['PRICE']
+
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.2, random_state =1)
+print('Shape of x_train: ', x_train.shape)
+print('Shape of x_test:  ', x_test.shape)
 print()
-print('Mean:   ', data['PTRATIO'].mean())
-print('Median: ', data['PTRATIO'].median())
-print('STD:    ', data['PTRATIO'].std())
+
+regression = LinearRegression()
+regression.fit(x_train, y_train)
+print('y = a.x + b')
+print('b: ', regression.intercept_)
+print('a: ', regression.coef_)
+
+print()
+print('R² train: ', regression.score(x_train, y_train))
+print('R² test:  ', regression.score(x_test, y_test))
+
+# All features of continuous value with normalizing distribution
+x = np.log10(data.drop(['PRICE', 'CHAS', 'ZN'], axis=1))
+y = data['PRICE']
+
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.2, random_state =1)
+print('Shape of x_train: ', x_train.shape)
+print('Shape of x_test:  ', x_test.shape)
+print()
+
+regression = LinearRegression()
+regression.fit(x_train, y_train)
+print('y = a.x + b')
+print('b: ', regression.intercept_)
+print('a: ', regression.coef_)
+
+print()
+print('R² train: ', regression.score(x_train, y_train))
+print('R² test:  ', regression.score(x_test, y_test))

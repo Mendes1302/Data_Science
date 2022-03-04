@@ -1,0 +1,419 @@
+,Id_passageiro,Tipo_passagem,Nome,Sexo,Idade,SibSp,Parch,Codigo_ticket,Valor_passagem,Sobreviveu
+0,892,ruim,"Kelly, Mr. James",masculino,34.5,0,0,330911,7.8292,False
+1,893,ruim,"Wilkes, Mrs. James (Ellen Needs)",feminino,47.0,1,0,363272,7.0,True
+2,894,intermediaria,"Myles, Mr. Thomas Francis",masculino,62.0,0,0,240276,9.6875,False
+3,895,ruim,"Wirz, Mr. Albert",masculino,27.0,0,0,315154,8.6625,False
+4,896,ruim,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",feminino,22.0,1,1,3101298,12.2875,True
+5,897,ruim,"Svensson, Mr. Johan Cervin",masculino,14.0,0,0,7538,9.225,False
+6,898,ruim,"Connolly, Miss. Kate",feminino,30.0,0,0,330972,7.6292,True
+7,899,intermediaria,"Caldwell, Mr. Albert Francis",masculino,26.0,1,1,248738,29.0,False
+8,900,ruim,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",feminino,18.0,0,0,2657,7.2292,True
+9,901,ruim,"Davies, Mr. John Samuel",masculino,21.0,2,0,A/4 48871,24.15,False
+10,902,ruim,"Ilieff, Mr. Ylio",masculino,,0,0,349220,7.8958,False
+11,903,bom,"Jones, Mr. Charles Cresson",masculino,46.0,0,0,694,26.0,False
+12,904,bom,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",feminino,23.0,1,0,21228,82.2667,True
+13,905,intermediaria,"Howard, Mr. Benjamin",masculino,63.0,1,0,24065,26.0,False
+14,906,bom,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",feminino,47.0,1,0,W.E.P. 5734,61.175,True
+15,907,intermediaria,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",feminino,24.0,1,0,SC/PARIS 2167,27.7208,True
+16,908,intermediaria,"Keane, Mr. Daniel",masculino,35.0,0,0,233734,12.35,False
+17,909,ruim,"Assaf, Mr. Gerios",masculino,21.0,0,0,2692,7.225,False
+18,910,ruim,"Ilmakangas, Miss. Ida Livija",feminino,27.0,1,0,STON/O2. 3101270,7.925,True
+19,911,ruim,"Assaf Khalil, Mrs. Mariana (Miriam"")""",feminino,45.0,0,0,2696,7.225,True
+20,912,bom,"Rothschild, Mr. Martin",masculino,55.0,1,0,PC 17603,59.4,False
+21,913,ruim,"Olsen, Master. Artur Karl",masculino,9.0,0,1,C 17368,3.1708,False
+22,914,bom,"Flegenheim, Mrs. Alfred (Antoinette)",feminino,,0,0,PC 17598,31.6833,True
+23,915,bom,"Williams, Mr. Richard Norris II",masculino,21.0,0,1,PC 17597,61.3792,False
+24,916,bom,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",feminino,48.0,1,3,PC 17608,262.375,True
+25,917,ruim,"Robins, Mr. Alexander A",masculino,50.0,1,0,A/5. 3337,14.5,False
+26,918,bom,"Ostby, Miss. Helene Ragnhild",feminino,22.0,0,1,113509,61.9792,True
+27,919,ruim,"Daher, Mr. Shedid",masculino,22.5,0,0,2698,7.225,False
+28,920,bom,"Brady, Mr. John Bertram",masculino,41.0,0,0,113054,30.5,False
+29,921,ruim,"Samaan, Mr. Elias",masculino,,2,0,2662,21.6792,False
+30,922,intermediaria,"Louch, Mr. Charles Alexander",masculino,50.0,1,0,SC/AH 3085,26.0,False
+31,923,intermediaria,"Jefferys, Mr. Clifford Thomas",masculino,24.0,2,0,C.A. 31029,31.5,False
+32,924,ruim,"Dean, Mrs. Bertram (Eva Georgetta Light)",feminino,33.0,1,2,C.A. 2315,20.575,True
+33,925,ruim,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",feminino,,1,2,W./C. 6607,23.45,True
+34,926,bom,"Mock, Mr. Philipp Edmund",masculino,30.0,1,0,13236,57.75,False
+35,927,ruim,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",masculino,18.5,0,0,2682,7.2292,False
+36,928,ruim,"Roth, Miss. Sarah A",feminino,,0,0,342712,8.05,True
+37,929,ruim,"Cacic, Miss. Manda",feminino,21.0,0,0,315087,8.6625,True
+38,930,ruim,"Sap, Mr. Julius",masculino,25.0,0,0,345768,9.5,False
+39,931,ruim,"Hee, Mr. Ling",masculino,,0,0,1601,56.4958,False
+40,932,ruim,"Karun, Mr. Franz",masculino,39.0,0,1,349256,13.4167,False
+41,933,bom,"Franklin, Mr. Thomas Parham",masculino,,0,0,113778,26.55,False
+42,934,ruim,"Goldsmith, Mr. Nathan",masculino,41.0,0,0,SOTON/O.Q. 3101263,7.85,False
+43,935,intermediaria,"Corbett, Mrs. Walter H (Irene Colvin)",feminino,30.0,0,0,237249,13.0,True
+44,936,bom,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",feminino,45.0,1,0,11753,52.5542,True
+45,937,ruim,"Peltomaki, Mr. Nikolai Johannes",masculino,25.0,0,0,STON/O 2. 3101291,7.925,False
+46,938,bom,"Chevre, Mr. Paul Romaine",masculino,45.0,0,0,PC 17594,29.7,False
+47,939,ruim,"Shaughnessy, Mr. Patrick",masculino,,0,0,370374,7.75,False
+48,940,bom,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",feminino,60.0,0,0,11813,76.2917,True
+49,941,ruim,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",feminino,36.0,0,2,C.A. 37671,15.9,True
+50,942,bom,"Smith, Mr. Lucien Philip",masculino,24.0,1,0,13695,60.0,False
+51,943,intermediaria,"Pulbaum, Mr. Franz",masculino,27.0,0,0,SC/PARIS 2168,15.0333,False
+52,944,intermediaria,"Hocking, Miss. Ellen Nellie""""",feminino,20.0,2,1,29105,23.0,True
+53,945,bom,"Fortune, Miss. Ethel Flora",feminino,28.0,3,2,19950,263.0,True
+54,946,intermediaria,"Mangiavacchi, Mr. Serafino Emilio",masculino,,0,0,SC/A.3 2861,15.5792,False
+55,947,ruim,"Rice, Master. Albert",masculino,10.0,4,1,382652,29.125,False
+56,948,ruim,"Cor, Mr. Bartol",masculino,35.0,0,0,349230,7.8958,False
+57,949,ruim,"Abelseth, Mr. Olaus Jorgensen",masculino,25.0,0,0,348122,7.65,False
+58,950,ruim,"Davison, Mr. Thomas Henry",masculino,,1,0,386525,16.1,False
+59,951,bom,"Chaudanson, Miss. Victorine",feminino,36.0,0,0,PC 17608,262.375,True
+60,952,ruim,"Dika, Mr. Mirko",masculino,17.0,0,0,349232,7.8958,False
+61,953,intermediaria,"McCrae, Mr. Arthur Gordon",masculino,32.0,0,0,237216,13.5,False
+62,954,ruim,"Bjorklund, Mr. Ernst Herbert",masculino,18.0,0,0,347090,7.75,False
+63,955,ruim,"Bradley, Miss. Bridget Delia",feminino,22.0,0,0,334914,7.725,True
+64,956,bom,"Ryerson, Master. John Borie",masculino,13.0,2,2,PC 17608,262.375,False
+65,957,intermediaria,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",feminino,,0,0,F.C.C. 13534,21.0,True
+66,958,ruim,"Burns, Miss. Mary Delia",feminino,18.0,0,0,330963,7.8792,True
+67,959,bom,"Moore, Mr. Clarence Bloomfield",masculino,47.0,0,0,113796,42.4,False
+68,960,bom,"Tucker, Mr. Gilbert Milligan Jr",masculino,31.0,0,0,2543,28.5375,False
+69,961,bom,"Fortune, Mrs. Mark (Mary McDougald)",feminino,60.0,1,4,19950,263.0,True
+70,962,ruim,"Mulvihill, Miss. Bertha E",feminino,24.0,0,0,382653,7.75,True
+71,963,ruim,"Minkoff, Mr. Lazar",masculino,21.0,0,0,349211,7.8958,False
+72,964,ruim,"Nieminen, Miss. Manta Josefina",feminino,29.0,0,0,3101297,7.925,True
+73,965,bom,"Ovies y Rodriguez, Mr. Servando",masculino,28.5,0,0,PC 17562,27.7208,False
+74,966,bom,"Geiger, Miss. Amalie",feminino,35.0,0,0,113503,211.5,True
+75,967,bom,"Keeping, Mr. Edwin",masculino,32.5,0,0,113503,211.5,False
+76,968,ruim,"Miles, Mr. Frank",masculino,,0,0,359306,8.05,False
+77,969,bom,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",feminino,55.0,2,0,11770,25.7,True
+78,970,intermediaria,"Aldworth, Mr. Charles Augustus",masculino,30.0,0,0,248744,13.0,False
+79,971,ruim,"Doyle, Miss. Elizabeth",feminino,24.0,0,0,368702,7.75,True
+80,972,ruim,"Boulos, Master. Akar",masculino,6.0,1,1,2678,15.2458,False
+81,973,bom,"Straus, Mr. Isidor",masculino,67.0,1,0,PC 17483,221.7792,False
+82,974,bom,"Case, Mr. Howard Brown",masculino,49.0,0,0,19924,26.0,False
+83,975,ruim,"Demetri, Mr. Marinko",masculino,,0,0,349238,7.8958,False
+84,976,intermediaria,"Lamb, Mr. John Joseph",masculino,,0,0,240261,10.7083,False
+85,977,ruim,"Khalil, Mr. Betros",masculino,,1,0,2660,14.4542,False
+86,978,ruim,"Barry, Miss. Julia",feminino,27.0,0,0,330844,7.8792,True
+87,979,ruim,"Badman, Miss. Emily Louisa",feminino,18.0,0,0,A/4 31416,8.05,True
+88,980,ruim,"O'Donoghue, Ms. Bridget",feminino,,0,0,364856,7.75,True
+89,981,intermediaria,"Wells, Master. Ralph Lester",masculino,2.0,1,1,29103,23.0,False
+90,982,ruim,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",feminino,22.0,1,0,347072,13.9,True
+91,983,ruim,"Pedersen, Mr. Olaf",masculino,,0,0,345498,7.775,False
+92,984,bom,"Davidson, Mrs. Thornton (Orian Hays)",feminino,27.0,1,2,F.C. 12750,52.0,True
+93,985,ruim,"Guest, Mr. Robert",masculino,,0,0,376563,8.05,False
+94,986,bom,"Birnbaum, Mr. Jakob",masculino,25.0,0,0,13905,26.0,False
+95,987,ruim,"Tenglin, Mr. Gunnar Isidor",masculino,25.0,0,0,350033,7.7958,False
+96,988,bom,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",feminino,76.0,1,0,19877,78.85,True
+97,989,ruim,"Makinen, Mr. Kalle Edvard",masculino,29.0,0,0,STON/O 2. 3101268,7.925,False
+98,990,ruim,"Braf, Miss. Elin Ester Maria",feminino,20.0,0,0,347471,7.8542,True
+99,991,ruim,"Nancarrow, Mr. William Henry",masculino,33.0,0,0,A./5. 3338,8.05,False
+100,992,bom,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",feminino,43.0,1,0,11778,55.4417,True
+101,993,intermediaria,"Weisz, Mr. Leopold",masculino,27.0,1,0,228414,26.0,False
+102,994,ruim,"Foley, Mr. William",masculino,,0,0,365235,7.75,False
+103,995,ruim,"Johansson Palmquist, Mr. Oskar Leander",masculino,26.0,0,0,347070,7.775,False
+104,996,ruim,"Thomas, Mrs. Alexander (Thamine Thelma"")""",feminino,16.0,1,1,2625,8.5167,True
+105,997,ruim,"Holthen, Mr. Johan Martin",masculino,28.0,0,0,C 4001,22.525,False
+106,998,ruim,"Buckley, Mr. Daniel",masculino,21.0,0,0,330920,7.8208,False
+107,999,ruim,"Ryan, Mr. Edward",masculino,,0,0,383162,7.75,False
+108,1000,ruim,"Willer, Mr. Aaron (Abi Weller"")""",masculino,,0,0,3410,8.7125,False
+109,1001,intermediaria,"Swane, Mr. George",masculino,18.5,0,0,248734,13.0,False
+110,1002,intermediaria,"Stanton, Mr. Samuel Ward",masculino,41.0,0,0,237734,15.0458,False
+111,1003,ruim,"Shine, Miss. Ellen Natalia",feminino,,0,0,330968,7.7792,True
+112,1004,bom,"Evans, Miss. Edith Corse",feminino,36.0,0,0,PC 17531,31.6792,True
+113,1005,ruim,"Buckley, Miss. Katherine",feminino,18.5,0,0,329944,7.2833,True
+114,1006,bom,"Straus, Mrs. Isidor (Rosalie Ida Blun)",feminino,63.0,1,0,PC 17483,221.7792,True
+115,1007,ruim,"Chronopoulos, Mr. Demetrios",masculino,18.0,1,0,2680,14.4542,False
+116,1008,ruim,"Thomas, Mr. John",masculino,,0,0,2681,6.4375,False
+117,1009,ruim,"Sandstrom, Miss. Beatrice Irene",feminino,1.0,1,1,PP 9549,16.7,True
+118,1010,bom,"Beattie, Mr. Thomson",masculino,36.0,0,0,13050,75.2417,False
+119,1011,intermediaria,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",feminino,29.0,1,0,SC/AH 29037,26.0,True
+120,1012,intermediaria,"Watt, Miss. Bertha J",feminino,12.0,0,0,C.A. 33595,15.75,True
+121,1013,ruim,"Kiernan, Mr. John",masculino,,1,0,367227,7.75,False
+122,1014,bom,"Schabert, Mrs. Paul (Emma Mock)",feminino,35.0,1,0,13236,57.75,True
+123,1015,ruim,"Carver, Mr. Alfred John",masculino,28.0,0,0,392095,7.25,False
+124,1016,ruim,"Kennedy, Mr. John",masculino,,0,0,368783,7.75,False
+125,1017,ruim,"Cribb, Miss. Laura Alice",feminino,17.0,0,1,371362,16.1,True
+126,1018,ruim,"Brobeck, Mr. Karl Rudolf",masculino,22.0,0,0,350045,7.7958,False
+127,1019,ruim,"McCoy, Miss. Alicia",feminino,,2,0,367226,23.25,True
+128,1020,intermediaria,"Bowenur, Mr. Solomon",masculino,42.0,0,0,211535,13.0,False
+129,1021,ruim,"Petersen, Mr. Marius",masculino,24.0,0,0,342441,8.05,False
+130,1022,ruim,"Spinner, Mr. Henry John",masculino,32.0,0,0,STON/OQ. 369943,8.05,False
+131,1023,bom,"Gracie, Col. Archibald IV",masculino,53.0,0,0,113780,28.5,False
+132,1024,ruim,"Lefebre, Mrs. Frank (Frances)",feminino,,0,4,4133,25.4667,True
+133,1025,ruim,"Thomas, Mr. Charles P",masculino,,1,0,2621,6.4375,False
+134,1026,ruim,"Dintcheff, Mr. Valtcho",masculino,43.0,0,0,349226,7.8958,False
+135,1027,ruim,"Carlsson, Mr. Carl Robert",masculino,24.0,0,0,350409,7.8542,False
+136,1028,ruim,"Zakarian, Mr. Mapriededer",masculino,26.5,0,0,2656,7.225,False
+137,1029,intermediaria,"Schmidt, Mr. August",masculino,26.0,0,0,248659,13.0,False
+138,1030,ruim,"Drapkin, Miss. Jennie",feminino,23.0,0,0,SOTON/OQ 392083,8.05,True
+139,1031,ruim,"Goodwin, Mr. Charles Frederick",masculino,40.0,1,6,CA 2144,46.9,False
+140,1032,ruim,"Goodwin, Miss. Jessie Allis",feminino,10.0,5,2,CA 2144,46.9,True
+141,1033,bom,"Daniels, Miss. Sarah",feminino,33.0,0,0,113781,151.55,True
+142,1034,bom,"Ryerson, Mr. Arthur Larned",masculino,61.0,1,3,PC 17608,262.375,False
+143,1035,intermediaria,"Beauchamp, Mr. Henry James",masculino,28.0,0,0,244358,26.0,False
+144,1036,bom,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",masculino,42.0,0,0,17475,26.55,False
+145,1037,ruim,"Vander Planke, Mr. Julius",masculino,31.0,3,0,345763,18.0,False
+146,1038,bom,"Hilliard, Mr. Herbert Henry",masculino,,0,0,17463,51.8625,False
+147,1039,ruim,"Davies, Mr. Evan",masculino,22.0,0,0,SC/A4 23568,8.05,False
+148,1040,bom,"Crafton, Mr. John Bertram",masculino,,0,0,113791,26.55,False
+149,1041,intermediaria,"Lahtinen, Rev. William",masculino,30.0,1,1,250651,26.0,False
+150,1042,bom,"Earnshaw, Mrs. Boulton (Olive Potter)",feminino,23.0,0,1,11767,83.1583,True
+151,1043,ruim,"Matinoff, Mr. Nicola",masculino,,0,0,349255,7.8958,False
+152,1044,ruim,"Storey, Mr. Thomas",masculino,60.5,0,0,3701,,False
+153,1045,ruim,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",feminino,36.0,0,2,350405,12.1833,True
+154,1046,ruim,"Asplund, Master. Filip Oscar",masculino,13.0,4,2,347077,31.3875,False
+155,1047,ruim,"Duquemin, Mr. Joseph",masculino,24.0,0,0,S.O./P.P. 752,7.55,False
+156,1048,bom,"Bird, Miss. Ellen",feminino,29.0,0,0,PC 17483,221.7792,True
+157,1049,ruim,"Lundin, Miss. Olga Elida",feminino,23.0,0,0,347469,7.8542,True
+158,1050,bom,"Borebank, Mr. John James",masculino,42.0,0,0,110489,26.55,False
+159,1051,ruim,"Peacock, Mrs. Benjamin (Edith Nile)",feminino,26.0,0,2,SOTON/O.Q. 3101315,13.775,True
+160,1052,ruim,"Smyth, Miss. Julia",feminino,,0,0,335432,7.7333,True
+161,1053,ruim,"Touma, Master. Georges Youssef",masculino,7.0,1,1,2650,15.2458,False
+162,1054,intermediaria,"Wright, Miss. Marion",feminino,26.0,0,0,220844,13.5,True
+163,1055,ruim,"Pearce, Mr. Ernest",masculino,,0,0,343271,7.0,False
+164,1056,intermediaria,"Peruschitz, Rev. Joseph Maria",masculino,41.0,0,0,237393,13.0,False
+165,1057,ruim,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",feminino,26.0,1,1,315153,22.025,True
+166,1058,bom,"Brandeis, Mr. Emil",masculino,48.0,0,0,PC 17591,50.4958,False
+167,1059,ruim,"Ford, Mr. Edward Watson",masculino,18.0,2,2,W./C. 6608,34.375,False
+168,1060,bom,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",feminino,,0,0,17770,27.7208,True
+169,1061,ruim,"Hellstrom, Miss. Hilda Maria",feminino,22.0,0,0,7548,8.9625,True
+170,1062,ruim,"Lithman, Mr. Simon",masculino,,0,0,S.O./P.P. 251,7.55,False
+171,1063,ruim,"Zakarian, Mr. Ortin",masculino,27.0,0,0,2670,7.225,False
+172,1064,ruim,"Dyker, Mr. Adolf Fredrik",masculino,23.0,1,0,347072,13.9,False
+173,1065,ruim,"Torfa, Mr. Assad",masculino,,0,0,2673,7.2292,False
+174,1066,ruim,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",masculino,40.0,1,5,347077,31.3875,False
+175,1067,intermediaria,"Brown, Miss. Edith Eileen",feminino,15.0,0,2,29750,39.0,True
+176,1068,intermediaria,"Sincock, Miss. Maude",feminino,20.0,0,0,C.A. 33112,36.75,True
+177,1069,bom,"Stengel, Mr. Charles Emil Henry",masculino,54.0,1,0,11778,55.4417,False
+178,1070,intermediaria,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",feminino,36.0,0,3,230136,39.0,True
+179,1071,bom,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",feminino,64.0,0,2,PC 17756,83.1583,True
+180,1072,intermediaria,"McCrie, Mr. James Matthew",masculino,30.0,0,0,233478,13.0,False
+181,1073,bom,"Compton, Mr. Alexander Taylor Jr",masculino,37.0,1,1,PC 17756,83.1583,False
+182,1074,bom,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",feminino,18.0,1,0,113773,53.1,True
+183,1075,ruim,"Lane, Mr. Patrick",masculino,,0,0,7935,7.75,False
+184,1076,bom,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",feminino,27.0,1,1,PC 17558,247.5208,True
+185,1077,intermediaria,"Maybery, Mr. Frank Hubert",masculino,40.0,0,0,239059,16.0,False
+186,1078,intermediaria,"Phillips, Miss. Alice Frances Louisa",feminino,21.0,0,1,S.O./P.P. 2,21.0,True
+187,1079,ruim,"Davies, Mr. Joseph",masculino,17.0,2,0,A/4 48873,8.05,False
+188,1080,ruim,"Sage, Miss. Ada",feminino,,8,2,CA. 2343,69.55,True
+189,1081,intermediaria,"Veal, Mr. James",masculino,40.0,0,0,28221,13.0,False
+190,1082,intermediaria,"Angle, Mr. William A",masculino,34.0,1,0,226875,26.0,False
+191,1083,bom,"Salomon, Mr. Abraham L",masculino,,0,0,111163,26.0,False
+192,1084,ruim,"van Billiard, Master. Walter John",masculino,11.5,1,1,A/5. 851,14.5,False
+193,1085,intermediaria,"Lingane, Mr. John",masculino,61.0,0,0,235509,12.35,False
+194,1086,intermediaria,"Drew, Master. Marshall Brines",masculino,8.0,0,2,28220,32.5,False
+195,1087,ruim,"Karlsson, Mr. Julius Konrad Eugen",masculino,33.0,0,0,347465,7.8542,False
+196,1088,bom,"Spedden, Master. Robert Douglas",masculino,6.0,0,2,16966,134.5,False
+197,1089,ruim,"Nilsson, Miss. Berta Olivia",feminino,18.0,0,0,347066,7.775,True
+198,1090,intermediaria,"Baimbrigge, Mr. Charles Robert",masculino,23.0,0,0,C.A. 31030,10.5,False
+199,1091,ruim,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",feminino,,0,0,65305,8.1125,True
+200,1092,ruim,"Murphy, Miss. Nora",feminino,,0,0,36568,15.5,True
+201,1093,ruim,"Danbom, Master. Gilbert Sigvard Emanuel",masculino,0.33,0,2,347080,14.4,False
+202,1094,bom,"Astor, Col. John Jacob",masculino,47.0,1,0,PC 17757,227.525,False
+203,1095,intermediaria,"Quick, Miss. Winifred Vera",feminino,8.0,1,1,26360,26.0,True
+204,1096,intermediaria,"Andrew, Mr. Frank Thomas",masculino,25.0,0,0,C.A. 34050,10.5,False
+205,1097,bom,"Omont, Mr. Alfred Fernand",masculino,,0,0,F.C. 12998,25.7417,False
+206,1098,ruim,"McGowan, Miss. Katherine",feminino,35.0,0,0,9232,7.75,True
+207,1099,intermediaria,"Collett, Mr. Sidney C Stuart",masculino,24.0,0,0,28034,10.5,False
+208,1100,bom,"Rosenbaum, Miss. Edith Louise",feminino,33.0,0,0,PC 17613,27.7208,True
+209,1101,ruim,"Delalic, Mr. Redjo",masculino,25.0,0,0,349250,7.8958,False
+210,1102,ruim,"Andersen, Mr. Albert Karvin",masculino,32.0,0,0,C 4001,22.525,False
+211,1103,ruim,"Finoli, Mr. Luigi",masculino,,0,0,SOTON/O.Q. 3101308,7.05,False
+212,1104,intermediaria,"Deacon, Mr. Percy William",masculino,17.0,0,0,S.O.C. 14879,73.5,False
+213,1105,intermediaria,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",feminino,60.0,1,0,24065,26.0,True
+214,1106,ruim,"Andersson, Miss. Ida Augusta Margareta",feminino,38.0,4,2,347091,7.775,True
+215,1107,bom,"Head, Mr. Christopher",masculino,42.0,0,0,113038,42.5,False
+216,1108,ruim,"Mahon, Miss. Bridget Delia",feminino,,0,0,330924,7.8792,True
+217,1109,bom,"Wick, Mr. George Dennick",masculino,57.0,1,1,36928,164.8667,False
+218,1110,bom,"Widener, Mrs. George Dunton (Eleanor Elkins)",feminino,50.0,1,1,113503,211.5,True
+219,1111,ruim,"Thomson, Mr. Alexander Morrison",masculino,,0,0,32302,8.05,False
+220,1112,intermediaria,"Duran y More, Miss. Florentina",feminino,30.0,1,0,SC/PARIS 2148,13.8583,True
+221,1113,ruim,"Reynolds, Mr. Harold J",masculino,21.0,0,0,342684,8.05,False
+222,1114,intermediaria,"Cook, Mrs. (Selena Rogers)",feminino,22.0,0,0,W./C. 14266,10.5,True
+223,1115,ruim,"Karlsson, Mr. Einar Gervasius",masculino,21.0,0,0,350053,7.7958,False
+224,1116,bom,"Candee, Mrs. Edward (Helen Churchill Hungerford)",feminino,53.0,0,0,PC 17606,27.4458,True
+225,1117,ruim,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",feminino,,0,2,2661,15.2458,True
+226,1118,ruim,"Asplund, Mr. Johan Charles",masculino,23.0,0,0,350054,7.7958,False
+227,1119,ruim,"McNeill, Miss. Bridget",feminino,,0,0,370368,7.75,True
+228,1120,ruim,"Everett, Mr. Thomas James",masculino,40.5,0,0,C.A. 6212,15.1,False
+229,1121,intermediaria,"Hocking, Mr. Samuel James Metcalfe",masculino,36.0,0,0,242963,13.0,False
+230,1122,intermediaria,"Sweet, Mr. George Frederick",masculino,14.0,0,0,220845,65.0,False
+231,1123,bom,"Willard, Miss. Constance",feminino,21.0,0,0,113795,26.55,True
+232,1124,ruim,"Wiklund, Mr. Karl Johan",masculino,21.0,1,0,3101266,6.4958,False
+233,1125,ruim,"Linehan, Mr. Michael",masculino,,0,0,330971,7.8792,False
+234,1126,bom,"Cumings, Mr. John Bradley",masculino,39.0,1,0,PC 17599,71.2833,False
+235,1127,ruim,"Vendel, Mr. Olof Edvin",masculino,20.0,0,0,350416,7.8542,False
+236,1128,bom,"Warren, Mr. Frank Manley",masculino,64.0,1,0,110813,75.25,False
+237,1129,ruim,"Baccos, Mr. Raffull",masculino,20.0,0,0,2679,7.225,False
+238,1130,intermediaria,"Hiltunen, Miss. Marta",feminino,18.0,1,1,250650,13.0,True
+239,1131,bom,"Douglas, Mrs. Walter Donald (Mahala Dutton)",feminino,48.0,1,0,PC 17761,106.425,True
+240,1132,bom,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",feminino,55.0,0,0,112377,27.7208,True
+241,1133,intermediaria,"Christy, Mrs. (Alice Frances)",feminino,45.0,0,2,237789,30.0,True
+242,1134,bom,"Spedden, Mr. Frederic Oakley",masculino,45.0,1,1,16966,134.5,False
+243,1135,ruim,"Hyman, Mr. Abraham",masculino,,0,0,3470,7.8875,False
+244,1136,ruim,"Johnston, Master. William Arthur Willie""""",masculino,,1,2,W./C. 6607,23.45,False
+245,1137,bom,"Kenyon, Mr. Frederick R",masculino,41.0,1,0,17464,51.8625,False
+246,1138,intermediaria,"Karnes, Mrs. J Frank (Claire Bennett)",feminino,22.0,0,0,F.C.C. 13534,21.0,True
+247,1139,intermediaria,"Drew, Mr. James Vivian",masculino,42.0,1,1,28220,32.5,False
+248,1140,intermediaria,"Hold, Mrs. Stephen (Annie Margaret Hill)",feminino,29.0,1,0,26707,26.0,True
+249,1141,ruim,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",feminino,,1,0,2660,14.4542,True
+250,1142,intermediaria,"West, Miss. Barbara J",feminino,0.92,1,2,C.A. 34651,27.75,True
+251,1143,ruim,"Abrahamsson, Mr. Abraham August Johannes",masculino,20.0,0,0,SOTON/O2 3101284,7.925,False
+252,1144,bom,"Clark, Mr. Walter Miller",masculino,27.0,1,0,13508,136.7792,False
+253,1145,ruim,"Salander, Mr. Karl Johan",masculino,24.0,0,0,7266,9.325,False
+254,1146,ruim,"Wenzel, Mr. Linhart",masculino,32.5,0,0,345775,9.5,False
+255,1147,ruim,"MacKay, Mr. George William",masculino,,0,0,C.A. 42795,7.55,False
+256,1148,ruim,"Mahon, Mr. John",masculino,,0,0,AQ/4 3130,7.75,False
+257,1149,ruim,"Niklasson, Mr. Samuel",masculino,28.0,0,0,363611,8.05,False
+258,1150,intermediaria,"Bentham, Miss. Lilian W",feminino,19.0,0,0,28404,13.0,True
+259,1151,ruim,"Midtsjo, Mr. Karl Albert",masculino,21.0,0,0,345501,7.775,False
+260,1152,ruim,"de Messemaeker, Mr. Guillaume Joseph",masculino,36.5,1,0,345572,17.4,False
+261,1153,ruim,"Nilsson, Mr. August Ferdinand",masculino,21.0,0,0,350410,7.8542,False
+262,1154,intermediaria,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",feminino,29.0,0,2,29103,23.0,True
+263,1155,ruim,"Klasen, Miss. Gertrud Emilia",feminino,1.0,1,1,350405,12.1833,True
+264,1156,intermediaria,"Portaluppi, Mr. Emilio Ilario Giuseppe",masculino,30.0,0,0,C.A. 34644,12.7375,False
+265,1157,ruim,"Lyntakoff, Mr. Stanko",masculino,,0,0,349235,7.8958,False
+266,1158,bom,"Chisholm, Mr. Roderick Robert Crispin",masculino,,0,0,112051,0.0,False
+267,1159,ruim,"Warren, Mr. Charles William",masculino,,0,0,C.A. 49867,7.55,False
+268,1160,ruim,"Howard, Miss. May Elizabeth",feminino,,0,0,A. 2. 39186,8.05,True
+269,1161,ruim,"Pokrnic, Mr. Mate",masculino,17.0,0,0,315095,8.6625,False
+270,1162,bom,"McCaffry, Mr. Thomas Francis",masculino,46.0,0,0,13050,75.2417,False
+271,1163,ruim,"Fox, Mr. Patrick",masculino,,0,0,368573,7.75,False
+272,1164,bom,"Clark, Mrs. Walter Miller (Virginia McDowell)",feminino,26.0,1,0,13508,136.7792,True
+273,1165,ruim,"Lennon, Miss. Mary",feminino,,1,0,370371,15.5,True
+274,1166,ruim,"Saade, Mr. Jean Nassr",masculino,,0,0,2676,7.225,False
+275,1167,intermediaria,"Bryhl, Miss. Dagmar Jenny Ingeborg ",feminino,20.0,1,0,236853,26.0,True
+276,1168,intermediaria,"Parker, Mr. Clifford Richard",masculino,28.0,0,0,SC 14888,10.5,False
+277,1169,intermediaria,"Faunthorpe, Mr. Harry",masculino,40.0,1,0,2926,26.0,False
+278,1170,intermediaria,"Ware, Mr. John James",masculino,30.0,1,0,CA 31352,21.0,False
+279,1171,intermediaria,"Oxenham, Mr. Percy Thomas",masculino,22.0,0,0,W./C. 14260,10.5,False
+280,1172,ruim,"Oreskovic, Miss. Jelka",feminino,23.0,0,0,315085,8.6625,True
+281,1173,ruim,"Peacock, Master. Alfred Edward",masculino,0.75,1,1,SOTON/O.Q. 3101315,13.775,False
+282,1174,ruim,"Fleming, Miss. Honora",feminino,,0,0,364859,7.75,True
+283,1175,ruim,"Touma, Miss. Maria Youssef",feminino,9.0,1,1,2650,15.2458,True
+284,1176,ruim,"Rosblom, Miss. Salli Helena",feminino,2.0,1,1,370129,20.2125,True
+285,1177,ruim,"Dennis, Mr. William",masculino,36.0,0,0,A/5 21175,7.25,False
+286,1178,ruim,"Franklin, Mr. Charles (Charles Fardon)",masculino,,0,0,SOTON/O.Q. 3101314,7.25,False
+287,1179,bom,"Snyder, Mr. John Pillsbury",masculino,24.0,1,0,21228,82.2667,False
+288,1180,ruim,"Mardirosian, Mr. Sarkis",masculino,,0,0,2655,7.2292,False
+289,1181,ruim,"Ford, Mr. Arthur",masculino,,0,0,A/5 1478,8.05,False
+290,1182,bom,"Rheims, Mr. George Alexander Lucien",masculino,,0,0,PC 17607,39.6,False
+291,1183,ruim,"Daly, Miss. Margaret Marcella Maggie""""",feminino,30.0,0,0,382650,6.95,True
+292,1184,ruim,"Nasr, Mr. Mustafa",masculino,,0,0,2652,7.2292,False
+293,1185,bom,"Dodge, Dr. Washington",masculino,53.0,1,1,33638,81.8583,False
+294,1186,ruim,"Wittevrongel, Mr. Camille",masculino,36.0,0,0,345771,9.5,False
+295,1187,ruim,"Angheloff, Mr. Minko",masculino,26.0,0,0,349202,7.8958,False
+296,1188,intermediaria,"Laroche, Miss. Louise",feminino,1.0,1,2,SC/Paris 2123,41.5792,True
+297,1189,ruim,"Samaan, Mr. Hanna",masculino,,2,0,2662,21.6792,False
+298,1190,bom,"Loring, Mr. Joseph Holland",masculino,30.0,0,0,113801,45.5,False
+299,1191,ruim,"Johansson, Mr. Nils",masculino,29.0,0,0,347467,7.8542,False
+300,1192,ruim,"Olsson, Mr. Oscar Wilhelm",masculino,32.0,0,0,347079,7.775,False
+301,1193,intermediaria,"Malachard, Mr. Noel",masculino,,0,0,237735,15.0458,False
+302,1194,intermediaria,"Phillips, Mr. Escott Robert",masculino,43.0,0,1,S.O./P.P. 2,21.0,False
+303,1195,ruim,"Pokrnic, Mr. Tome",masculino,24.0,0,0,315092,8.6625,False
+304,1196,ruim,"McCarthy, Miss. Catherine Katie""""",feminino,,0,0,383123,7.75,True
+305,1197,bom,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",feminino,64.0,1,1,112901,26.55,True
+306,1198,bom,"Allison, Mr. Hudson Joshua Creighton",masculino,30.0,1,2,113781,151.55,False
+307,1199,ruim,"Aks, Master. Philip Frank",masculino,0.83,0,1,392091,9.35,False
+308,1200,bom,"Hays, Mr. Charles Melville",masculino,55.0,1,1,12749,93.5,False
+309,1201,ruim,"Hansen, Mrs. Claus Peter (Jennie L Howard)",feminino,45.0,1,0,350026,14.1083,True
+310,1202,ruim,"Cacic, Mr. Jego Grga",masculino,18.0,0,0,315091,8.6625,False
+311,1203,ruim,"Vartanian, Mr. David",masculino,22.0,0,0,2658,7.225,False
+312,1204,ruim,"Sadowitz, Mr. Harry",masculino,,0,0,LP 1588,7.575,False
+313,1205,ruim,"Carr, Miss. Jeannie",feminino,37.0,0,0,368364,7.75,True
+314,1206,bom,"White, Mrs. John Stuart (Ella Holmes)",feminino,55.0,0,0,PC 17760,135.6333,True
+315,1207,ruim,"Hagardon, Miss. Kate",feminino,17.0,0,0,AQ/3. 30631,7.7333,True
+316,1208,bom,"Spencer, Mr. William Augustus",masculino,57.0,1,0,PC 17569,146.5208,False
+317,1209,intermediaria,"Rogers, Mr. Reginald Harry",masculino,19.0,0,0,28004,10.5,False
+318,1210,ruim,"Jonsson, Mr. Nils Hilding",masculino,27.0,0,0,350408,7.8542,False
+319,1211,intermediaria,"Jefferys, Mr. Ernest Wilfred",masculino,22.0,2,0,C.A. 31029,31.5,False
+320,1212,ruim,"Andersson, Mr. Johan Samuel",masculino,26.0,0,0,347075,7.775,False
+321,1213,ruim,"Krekorian, Mr. Neshan",masculino,25.0,0,0,2654,7.2292,False
+322,1214,intermediaria,"Nesson, Mr. Israel",masculino,26.0,0,0,244368,13.0,False
+323,1215,bom,"Rowe, Mr. Alfred G",masculino,33.0,0,0,113790,26.55,False
+324,1216,bom,"Kreuchen, Miss. Emilie",feminino,39.0,0,0,24160,211.3375,True
+325,1217,ruim,"Assam, Mr. Ali",masculino,23.0,0,0,SOTON/O.Q. 3101309,7.05,False
+326,1218,intermediaria,"Becker, Miss. Ruth Elizabeth",feminino,12.0,2,1,230136,39.0,True
+327,1219,bom,"Rosenshine, Mr. George (Mr George Thorne"")""",masculino,46.0,0,0,PC 17585,79.2,False
+328,1220,intermediaria,"Clarke, Mr. Charles Valentine",masculino,29.0,1,0,2003,26.0,False
+329,1221,intermediaria,"Enander, Mr. Ingvar",masculino,21.0,0,0,236854,13.0,False
+330,1222,intermediaria,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",feminino,48.0,0,2,C.A. 33112,36.75,True
+331,1223,bom,"Dulles, Mr. William Crothers",masculino,39.0,0,0,PC 17580,29.7,False
+332,1224,ruim,"Thomas, Mr. Tannous",masculino,,0,0,2684,7.225,False
+333,1225,ruim,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",feminino,19.0,1,1,2653,15.7417,True
+334,1226,ruim,"Cor, Mr. Ivan",masculino,27.0,0,0,349229,7.8958,False
+335,1227,bom,"Maguire, Mr. John Edward",masculino,30.0,0,0,110469,26.0,False
+336,1228,intermediaria,"de Brito, Mr. Jose Joaquim",masculino,32.0,0,0,244360,13.0,False
+337,1229,ruim,"Elias, Mr. Joseph",masculino,39.0,0,2,2675,7.2292,False
+338,1230,intermediaria,"Denbury, Mr. Herbert",masculino,25.0,0,0,C.A. 31029,31.5,False
+339,1231,ruim,"Betros, Master. Seman",masculino,,0,0,2622,7.2292,False
+340,1232,intermediaria,"Fillbrook, Mr. Joseph Charles",masculino,18.0,0,0,C.A. 15185,10.5,False
+341,1233,ruim,"Lundstrom, Mr. Thure Edvin",masculino,32.0,0,0,350403,7.5792,False
+342,1234,ruim,"Sage, Mr. John George",masculino,,1,9,CA. 2343,69.55,False
+343,1235,bom,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",feminino,58.0,0,1,PC 17755,512.3292,True
+344,1236,ruim,"van Billiard, Master. James William",masculino,,1,1,A/5. 851,14.5,False
+345,1237,ruim,"Abelseth, Miss. Karen Marie",feminino,16.0,0,0,348125,7.65,True
+346,1238,intermediaria,"Botsford, Mr. William Hull",masculino,26.0,0,0,237670,13.0,False
+347,1239,ruim,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",feminino,38.0,0,0,2688,7.2292,True
+348,1240,intermediaria,"Giles, Mr. Ralph",masculino,24.0,0,0,248726,13.5,False
+349,1241,intermediaria,"Walcroft, Miss. Nellie",feminino,31.0,0,0,F.C.C. 13528,21.0,True
+350,1242,bom,"Greenfield, Mrs. Leo David (Blanche Strouse)",feminino,45.0,0,1,PC 17759,63.3583,True
+351,1243,intermediaria,"Stokes, Mr. Philip Joseph",masculino,25.0,0,0,F.C.C. 13540,10.5,False
+352,1244,intermediaria,"Dibden, Mr. William",masculino,18.0,0,0,S.O.C. 14879,73.5,False
+353,1245,intermediaria,"Herman, Mr. Samuel",masculino,49.0,1,2,220845,65.0,False
+354,1246,ruim,"Dean, Miss. Elizabeth Gladys Millvina""""",feminino,0.17,1,2,C.A. 2315,20.575,True
+355,1247,bom,"Julian, Mr. Henry Forbes",masculino,50.0,0,0,113044,26.0,False
+356,1248,bom,"Brown, Mrs. John Murray (Caroline Lane Lamson)",feminino,59.0,2,0,11769,51.4792,True
+357,1249,ruim,"Lockyer, Mr. Edward",masculino,,0,0,1222,7.8792,False
+358,1250,ruim,"O'Keefe, Mr. Patrick",masculino,,0,0,368402,7.75,False
+359,1251,ruim,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",feminino,30.0,1,0,349910,15.55,True
+360,1252,ruim,"Sage, Master. William Henry",masculino,14.5,8,2,CA. 2343,69.55,False
+361,1253,intermediaria,"Mallet, Mrs. Albert (Antoinette Magnin)",feminino,24.0,1,1,S.C./PARIS 2079,37.0042,True
+362,1254,intermediaria,"Ware, Mrs. John James (Florence Louise Long)",feminino,31.0,0,0,CA 31352,21.0,True
+363,1255,ruim,"Strilic, Mr. Ivan",masculino,27.0,0,0,315083,8.6625,False
+364,1256,bom,"Harder, Mrs. George Achilles (Dorothy Annan)",feminino,25.0,1,0,11765,55.4417,True
+365,1257,ruim,"Sage, Mrs. John (Annie Bullen)",feminino,,1,9,CA. 2343,69.55,True
+366,1258,ruim,"Caram, Mr. Joseph",masculino,,1,0,2689,14.4583,False
+367,1259,ruim,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",feminino,22.0,0,0,3101295,39.6875,True
+368,1260,bom,"Gibson, Mrs. Leonard (Pauline C Boeson)",feminino,45.0,0,1,112378,59.4,True
+369,1261,intermediaria,"Pallas y Castello, Mr. Emilio",masculino,29.0,0,0,SC/PARIS 2147,13.8583,False
+370,1262,intermediaria,"Giles, Mr. Edgar",masculino,21.0,1,0,28133,11.5,False
+371,1263,bom,"Wilson, Miss. Helen Alice",feminino,31.0,0,0,16966,134.5,True
+372,1264,bom,"Ismay, Mr. Joseph Bruce",masculino,49.0,0,0,112058,0.0,False
+373,1265,intermediaria,"Harbeck, Mr. William H",masculino,44.0,0,0,248746,13.0,False
+374,1266,bom,"Dodge, Mrs. Washington (Ruth Vidaver)",feminino,54.0,1,1,33638,81.8583,True
+375,1267,bom,"Bowen, Miss. Grace Scott",feminino,45.0,0,0,PC 17608,262.375,True
+376,1268,ruim,"Kink, Miss. Maria",feminino,22.0,2,0,315152,8.6625,True
+377,1269,intermediaria,"Cotterill, Mr. Henry Harry""""",masculino,21.0,0,0,29107,11.5,False
+378,1270,bom,"Hipkins, Mr. William Edward",masculino,55.0,0,0,680,50.0,False
+379,1271,ruim,"Asplund, Master. Carl Edgar",masculino,5.0,4,2,347077,31.3875,False
+380,1272,ruim,"O'Connor, Mr. Patrick",masculino,,0,0,366713,7.75,False
+381,1273,ruim,"Foley, Mr. Joseph",masculino,26.0,0,0,330910,7.8792,False
+382,1274,ruim,"Risien, Mrs. Samuel (Emma)",feminino,,0,0,364498,14.5,True
+383,1275,ruim,"McNamee, Mrs. Neal (Eileen O'Leary)",feminino,19.0,1,0,376566,16.1,True
+384,1276,intermediaria,"Wheeler, Mr. Edwin Frederick""""",masculino,,0,0,SC/PARIS 2159,12.875,False
+385,1277,intermediaria,"Herman, Miss. Kate",feminino,24.0,1,2,220845,65.0,True
+386,1278,ruim,"Aronsson, Mr. Ernst Axel Algot",masculino,24.0,0,0,349911,7.775,False
+387,1279,intermediaria,"Ashby, Mr. John",masculino,57.0,0,0,244346,13.0,False
+388,1280,ruim,"Canavan, Mr. Patrick",masculino,21.0,0,0,364858,7.75,False
+389,1281,ruim,"Palsson, Master. Paul Folke",masculino,6.0,3,1,349909,21.075,False
+390,1282,bom,"Payne, Mr. Vivian Ponsonby",masculino,23.0,0,0,12749,93.5,False
+391,1283,bom,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",feminino,51.0,0,1,PC 17592,39.4,True
+392,1284,ruim,"Abbott, Master. Eugene Joseph",masculino,13.0,0,2,C.A. 2673,20.25,False
+393,1285,intermediaria,"Gilbert, Mr. William",masculino,47.0,0,0,C.A. 30769,10.5,False
+394,1286,ruim,"Kink-Heilmann, Mr. Anton",masculino,29.0,3,1,315153,22.025,False
+395,1287,bom,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",feminino,18.0,1,0,13695,60.0,True
+396,1288,ruim,"Colbert, Mr. Patrick",masculino,24.0,0,0,371109,7.25,False
+397,1289,bom,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",feminino,48.0,1,1,13567,79.2,True
+398,1290,ruim,"Larsson-Rondberg, Mr. Edvard A",masculino,22.0,0,0,347065,7.775,False
+399,1291,ruim,"Conlon, Mr. Thomas Henry",masculino,31.0,0,0,21332,7.7333,False
+400,1292,bom,"Bonnell, Miss. Caroline",feminino,30.0,0,0,36928,164.8667,True
+401,1293,intermediaria,"Gale, Mr. Harry",masculino,38.0,1,0,28664,21.0,False
+402,1294,bom,"Gibson, Miss. Dorothy Winifred",feminino,22.0,0,1,112378,59.4,True
+403,1295,bom,"Carrau, Mr. Jose Pedro",masculino,17.0,0,0,113059,47.1,False
+404,1296,bom,"Frauenthal, Mr. Isaac Gerald",masculino,43.0,1,0,17765,27.7208,False
+405,1297,intermediaria,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",masculino,20.0,0,0,SC/PARIS 2166,13.8625,False
+406,1298,intermediaria,"Ware, Mr. William Jeffery",masculino,23.0,1,0,28666,10.5,False
+407,1299,bom,"Widener, Mr. George Dunton",masculino,50.0,1,1,113503,211.5,False
+408,1300,ruim,"Riordan, Miss. Johanna Hannah""""",feminino,,0,0,334915,7.7208,True
+409,1301,ruim,"Peacock, Miss. Treasteall",feminino,3.0,1,1,SOTON/O.Q. 3101315,13.775,True
+410,1302,ruim,"Naughton, Miss. Hannah",feminino,,0,0,365237,7.75,True
+411,1303,bom,"Minahan, Mrs. William Edward (Lillian E Thorpe)",feminino,37.0,1,0,19928,90.0,True
+412,1304,ruim,"Henriksson, Miss. Jenny Lovisa",feminino,28.0,0,0,347086,7.775,True
+413,1305,ruim,"Spector, Mr. Woolf",masculino,,0,0,A.5. 3236,8.05,False
+414,1306,bom,"Oliva y Ocana, Dona. Fermina",feminino,39.0,0,0,PC 17758,108.9,True
+415,1307,ruim,"Saether, Mr. Simon Sivertsen",masculino,38.5,0,0,SOTON/O.Q. 3101262,7.25,False
+416,1308,ruim,"Ware, Mr. Frederick",masculino,,0,0,359309,8.05,False
+417,1309,ruim,"Peter, Master. Michael J",masculino,,1,1,2668,22.3583,False
